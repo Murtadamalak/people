@@ -1,0 +1,1 @@
+import{J as s,da as a}from"./chunk-5THSZBG5.js";var n=class e{constructor(){this.message=a(null)}show(t){this.message.set(t),setTimeout(()=>this.message.set(null),3e3)}static{this.\u0275fac=function(o){return new(o||e)}}static{this.\u0275prov=s({token:e,factory:e.\u0275fac,providedIn:"root"})}};export{n as a};
